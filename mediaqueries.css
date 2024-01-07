@@ -24,6 +24,8 @@
     height: 16vh;
     background-color: rgb(245, 240, 240);
   }
+  #experience{
+    margin-top: 100px;
 }
 
 @media screen and (max-width: 1200px) {
