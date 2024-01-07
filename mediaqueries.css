@@ -1,4 +1,4 @@
-/* @media screen and (max-width: 1400px ) {
+@media screen and (max-width: 1400px ) {
   #profile {
     height: 63vh;
     margin-bottom: 6rem;
@@ -23,9 +23,9 @@
     height: 16vh;
     background-color: rgb(245, 240, 240);
   }
-} */
+}
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1200px) {
   #desktop-nav {
     display: none;
   }
